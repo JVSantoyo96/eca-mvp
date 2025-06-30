@@ -1,0 +1,101 @@
+course_id,title,provider,thematic,sub_thematic,level,modality,price_usd,duration_hours,language
+C001,Intro de Habilidades Transversales,Universidad Alfa,Multidisciplinar,Pensamiento Crítico,Avanzado,Virtual,85,22,Español
+C002,Taller de Transición Energética,Instituto Beta,Sostenibilidad,Transición Energética,Básico,Híbrido,125,34,Inglés
+C003,Intro de Big Data,Instituto Beta,Data/AI,Visualización,Básico,Presencial,234,34,Inglés
+C004,Taller de Protección de Datos,Tech Academy,Ciberseguridad,Gobierno Digital,Intermedio,Presencial,52,50,Español
+C005,Fundamentos de Gobierno Digital,Tech Academy,Ciberseguridad,Gobierno Digital,Avanzado,Virtual,95,43,Inglés
+C006,Fundamentos de Visualización,Online Campus,Data/AI,Machine Learning,Avanzado,Virtual,240,60,Inglés
+C007,Taller de Economía Circular,Universidad Alfa,Sostenibilidad,Economía Circular,Intermedio,Híbrido,61,39,Inglés
+C008,Fundamentos de Design Thinking,Tech Academy,Creatividad e Innovación,Design Thinking,Básico,Virtual,150,39,Inglés
+C009,Intro de Storytelling,Online Campus,Creatividad e Innovación,Storytelling,Básico,Híbrido,92,10,Español
+C010,Taller de Design Thinking,Universidad Alfa,Creatividad e Innovación,Design Thinking,Básico,Presencial,66,16,Español
+C011,Taller de Gobierno Digital,Tech Academy,Ciberseguridad,Protección de Datos,Avanzado,Virtual,79,27,Inglés
+C012,Taller de Economía Circular,Universidad Alfa,Sostenibilidad,Transición Energética,Básico,Presencial,206,59,Español
+C013,Taller de Storytelling,Tech Academy,Creatividad e Innovación,Design Thinking,Avanzado,Híbrido,248,18,Español
+C014,Taller de Economía Circular,Online Campus,Sostenibilidad,Transición Energética,Avanzado,Híbrido,268,55,Español
+C015,Taller de Pensamiento Crítico,Instituto Beta,Multidisciplinar,Pensamiento Crítico,Intermedio,Presencial,167,21,Inglés
+C016,Taller de Liderazgo Comunitario,Instituto Beta,Innovación Social,Economía Solidaria,Básico,Híbrido,206,17,Español
+C017,Fundamentos de Pensamiento Crítico,Universidad Alfa,Multidisciplinar,Pensamiento Crítico,Avanzado,Virtual,255,37,Inglés
+C018,Avanzado de Pensamiento Crítico,Tech Academy,Multidisciplinar,Habilidades Transversales,Avanzado,Presencial,129,25,Español
+C019,Taller de Gobierno Digital,Online Campus,Ciberseguridad,Gobierno Digital,Intermedio,Presencial,167,38,Inglés
+C020,Taller de Design Thinking,Instituto Beta,Creatividad e Innovación,Storytelling,Avanzado,Híbrido,116,55,Inglés
+C021,Taller de Design Thinking,Online Campus,Creatividad e Innovación,Design Thinking,Básico,Presencial,128,20,Inglés
+C022,Taller de Transición Energética,Instituto Beta,Sostenibilidad,Economía Circular,Intermedio,Virtual,95,30,Español
+C023,Intro de Pensamiento Crítico,Tech Academy,Multidisciplinar,Habilidades Transversales,Avanzado,Virtual,174,33,Español
+C024,Intro de Big Data,Universidad Alfa,Data/AI,Machine Learning,Básico,Virtual,278,53,Inglés
+C025,Avanzado de Gobierno Digital,Online Campus,Ciberseguridad,Protección de Datos,Intermedio,Presencial,84,41,Español
+C026,Taller de Economía Solidaria,Tech Academy,Innovación Social,Economía Solidaria,Intermedio,Presencial,118,32,Español
+C027,Fundamentos de Transición Energética,Instituto Beta,Sostenibilidad,Transición Energética,Intermedio,Virtual,239,24,Inglés
+C028,Intro de Protección de Datos,Tech Academy,Ciberseguridad,Gobierno Digital,Básico,Virtual,149,13,Inglés
+C029,Taller de Transición Energética,Online Campus,Sostenibilidad,Economía Circular,Básico,Presencial,66,19,Español
+C030,Taller de Transición Energética,Universidad Alfa,Sostenibilidad,Economía Circular,Avanzado,Presencial,264,44,Español
+C031,Intro de Economía Circular,Instituto Beta,Sostenibilidad,Economía Circular,Intermedio,Presencial,68,53,Español
+C032,Taller de Storytelling,Universidad Alfa,Creatividad e Innovación,Design Thinking,Intermedio,Híbrido,184,30,Español
+C033,Intro de Gobierno Digital,Online Campus,Ciberseguridad,Gobierno Digital,Intermedio,Presencial,159,33,Inglés
+C034,Intro de Big Data,Online Campus,Data/AI,Machine Learning,Básico,Presencial,139,54,Inglés
+C035,Taller de Storytelling,Instituto Beta,Creatividad e Innovación,Design Thinking,Básico,Virtual,237,34,Inglés
+C036,Avanzado de Protección de Datos,Instituto Beta,Ciberseguridad,Protección de Datos,Básico,Híbrido,294,16,Inglés
+C037,Fundamentos de Economía Circular,Online Campus,Sostenibilidad,Economía Circular,Avanzado,Híbrido,244,11,Inglés
+C038,Taller de Economía Solidaria,Universidad Alfa,Innovación Social,Liderazgo Comunitario,Avanzado,Híbrido,108,47,Español
+C039,Taller de Pensamiento Crítico,Tech Academy,Multidisciplinar,Pensamiento Crítico,Intermedio,Presencial,198,60,Inglés
+C040,Avanzado de Design Thinking,Universidad Alfa,Creatividad e Innovación,Storytelling,Intermedio,Presencial,193,57,Inglés
+C041,Fundamentos de Protección de Datos,Tech Academy,Ciberseguridad,Gobierno Digital,Intermedio,Presencial,179,56,Inglés
+C042,Taller de Design Thinking,Instituto Beta,Creatividad e Innovación,Design Thinking,Intermedio,Presencial,175,60,Español
+C043,Avanzado de Machine Learning,Universidad Alfa,Data/AI,Visualización,Intermedio,Presencial,274,35,Español
+C044,Avanzado de Transición Energética,Online Campus,Sostenibilidad,Economía Circular,Avanzado,Virtual,161,15,Inglés
+C045,Taller de Liderazgo Comunitario,Online Campus,Innovación Social,Liderazgo Comunitario,Intermedio,Híbrido,264,34,Inglés
+C046,Intro de Economía Circular,Instituto Beta,Sostenibilidad,Transición Energética,Básico,Híbrido,131,48,Español
+C047,Taller de Storytelling,Tech Academy,Creatividad e Innovación,Design Thinking,Intermedio,Híbrido,84,30,Inglés
+C048,Intro de Economía Solidaria,Tech Academy,Innovación Social,Economía Solidaria,Básico,Presencial,112,17,Español
+C049,Avanzado de Big Data,Universidad Alfa,Data/AI,Machine Learning,Básico,Híbrido,87,23,Español
+C050,Intro de Transición Energética,Online Campus,Sostenibilidad,Economía Circular,Avanzado,Virtual,87,43,Español
+C051,Intro de Machine Learning,Universidad Alfa,Data/AI,Machine Learning,Avanzado,Híbrido,250,10,Inglés
+C052,Intro de Design Thinking,Online Campus,Creatividad e Innovación,Storytelling,Básico,Híbrido,114,54,Español
+C053,Taller de Economía Solidaria,Tech Academy,Innovación Social,Economía Solidaria,Avanzado,Híbrido,56,28,Inglés
+C054,Intro de Protección de Datos,Universidad Alfa,Ciberseguridad,Gobierno Digital,Avanzado,Virtual,241,28,Inglés
+C055,Intro de Gobierno Digital,Tech Academy,Ciberseguridad,Gobierno Digital,Básico,Presencial,289,32,Español
+C056,Avanzado de Habilidades Transversales,Online Campus,Multidisciplinar,Pensamiento Crítico,Avanzado,Híbrido,195,39,Inglés
+C057,Intro de Machine Learning,Instituto Beta,Data/AI,Machine Learning,Básico,Virtual,76,25,Inglés
+C058,Intro de Economía Solidaria,Universidad Alfa,Innovación Social,Economía Solidaria,Básico,Virtual,207,45,Inglés
+C059,Intro de Economía Circular,Universidad Alfa,Sostenibilidad,Economía Circular,Intermedio,Híbrido,167,43,Español
+C060,Fundamentos de Protección de Datos,Online Campus,Ciberseguridad,Protección de Datos,Intermedio,Presencial,173,42,Inglés
+C061,Taller de Transición Energética,Online Campus,Sostenibilidad,Transición Energética,Intermedio,Híbrido,61,22,Español
+C062,Avanzado de Big Data,Universidad Alfa,Data/AI,Machine Learning,Avanzado,Virtual,159,59,Español
+C063,Avanzado de Habilidades Transversales,Universidad Alfa,Multidisciplinar,Habilidades Transversales,Intermedio,Virtual,60,26,Inglés
+C064,Intro de Economía Solidaria,Online Campus,Innovación Social,Economía Solidaria,Avanzado,Presencial,207,52,Español
+C065,Taller de Economía Solidaria,Online Campus,Innovación Social,Economía Solidaria,Avanzado,Virtual,124,55,Inglés
+C066,Taller de Gobierno Digital,Instituto Beta,Ciberseguridad,Protección de Datos,Avanzado,Híbrido,78,47,Inglés
+C067,Taller de Design Thinking,Tech Academy,Creatividad e Innovación,Design Thinking,Básico,Híbrido,179,31,Español
+C068,Avanzado de Machine Learning,Online Campus,Data/AI,Machine Learning,Intermedio,Presencial,277,28,Inglés
+C069,Intro de Storytelling,Tech Academy,Creatividad e Innovación,Design Thinking,Avanzado,Presencial,73,28,Inglés
+C070,Intro de Economía Circular,Instituto Beta,Sostenibilidad,Transición Energética,Intermedio,Presencial,119,31,Español
+C071,Avanzado de Gobierno Digital,Instituto Beta,Ciberseguridad,Protección de Datos,Básico,Virtual,71,31,Inglés
+C072,Avanzado de Habilidades Transversales,Universidad Alfa,Multidisciplinar,Pensamiento Crítico,Intermedio,Híbrido,76,59,Español
+C073,Intro de Visualización,Online Campus,Data/AI,Big Data,Avanzado,Presencial,64,46,Inglés
+C074,Avanzado de Visualización,Instituto Beta,Data/AI,Big Data,Básico,Presencial,109,30,Español
+C075,Taller de Economía Solidaria,Tech Academy,Innovación Social,Liderazgo Comunitario,Intermedio,Híbrido,206,43,Español
+C076,Fundamentos de Pensamiento Crítico,Universidad Alfa,Multidisciplinar,Habilidades Transversales,Básico,Virtual,273,23,Español
+C077,Avanzado de Liderazgo Comunitario,Universidad Alfa,Innovación Social,Economía Solidaria,Básico,Presencial,85,23,Inglés
+C078,Fundamentos de Liderazgo Comunitario,Online Campus,Innovación Social,Economía Solidaria,Básico,Virtual,86,46,Inglés
+C079,Taller de Pensamiento Crítico,Universidad Alfa,Multidisciplinar,Habilidades Transversales,Básico,Virtual,227,21,Inglés
+C080,Fundamentos de Economía Circular,Instituto Beta,Sostenibilidad,Economía Circular,Avanzado,Virtual,214,30,Español
+C081,Taller de Habilidades Transversales,Tech Academy,Multidisciplinar,Pensamiento Crítico,Avanzado,Virtual,145,28,Inglés
+C082,Intro de Storytelling,Tech Academy,Creatividad e Innovación,Storytelling,Básico,Presencial,209,16,Español
+C083,Taller de Pensamiento Crítico,Online Campus,Multidisciplinar,Pensamiento Crítico,Básico,Virtual,263,41,Español
+C084,Avanzado de Economía Circular,Universidad Alfa,Sostenibilidad,Economía Circular,Básico,Virtual,141,53,Español
+C085,Avanzado de Gobierno Digital,Tech Academy,Ciberseguridad,Protección de Datos,Avanzado,Presencial,216,21,Inglés
+C086,Fundamentos de Storytelling,Online Campus,Creatividad e Innovación,Storytelling,Básico,Virtual,117,30,Inglés
+C087,Avanzado de Pensamiento Crítico,Universidad Alfa,Multidisciplinar,Habilidades Transversales,Básico,Virtual,158,27,Español
+C088,Intro de Design Thinking,Universidad Alfa,Creatividad e Innovación,Design Thinking,Básico,Híbrido,51,12,Inglés
+C089,Taller de Pensamiento Crítico,Tech Academy,Multidisciplinar,Habilidades Transversales,Intermedio,Presencial,240,48,Inglés
+C090,Avanzado de Habilidades Transversales,Instituto Beta,Multidisciplinar,Habilidades Transversales,Avanzado,Presencial,287,28,Inglés
+C091,Taller de Big Data,Instituto Beta,Data/AI,Visualización,Intermedio,Híbrido,53,58,Inglés
+C092,Intro de Visualización,Universidad Alfa,Data/AI,Big Data,Básico,Híbrido,235,55,Español
+C093,Fundamentos de Storytelling,Tech Academy,Creatividad e Innovación,Design Thinking,Avanzado,Virtual,93,48,Inglés
+C094,Fundamentos de Economía Circular,Tech Academy,Sostenibilidad,Transición Energética,Básico,Híbrido,192,32,Inglés
+C095,Taller de Pensamiento Crítico,Online Campus,Multidisciplinar,Habilidades Transversales,Intermedio,Híbrido,291,43,Inglés
+C096,Intro de Gobierno Digital,Instituto Beta,Ciberseguridad,Gobierno Digital,Básico,Virtual,69,46,Inglés
+C097,Fundamentos de Economía Solidaria,Online Campus,Innovación Social,Economía Solidaria,Avanzado,Presencial,188,60,Inglés
+C098,Intro de Habilidades Transversales,Universidad Alfa,Multidisciplinar,Pensamiento Crítico,Básico,Híbrido,75,21,Español
+C099,Fundamentos de Pensamiento Crítico,Tech Academy,Multidisciplinar,Pensamiento Crítico,Avanzado,Híbrido,94,58,Español
+C100,Avanzado de Pensamiento Crítico,Online Campus,Multidisciplinar,Habilidades Transversales,Avanzado,Virtual,265,50,Inglés

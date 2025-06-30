@@ -1,0 +1,4 @@
+ruta_id,nombre,trayectoria_id,microcred_ids,dificultad_total,modalidades,precio_estimado,enlace_inscripcion
+R001,Ruta Data/AI Básica,Data/AI,MC001|MC002,8,Virtual,300,https://example.com/inscripcion/r001
+R002,Ruta Ciberseguridad Intermedia,Ciberseguridad,MC003|MC004,12,Virtual|Presencial,450,https://example.com/inscripcion/r002
+R003,Ruta Sostenibilidad Avanzada,Sostenibilidad,MC005|MC006,18,Híbrido,600,https://example.com/inscripcion/r003
